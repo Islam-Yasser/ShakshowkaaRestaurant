@@ -1,0 +1,13 @@
+.empty{
+    display: flex !important;
+    justify-content: center !important;
+    flex-flow: column !important;
+    align-items: center !important;
+}
+.buttons{
+    display: flex !important;
+    justify-content: center !important;
+}
+.image{
+    height: 180px !important;
+}

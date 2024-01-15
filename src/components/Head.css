@@ -1,0 +1,14 @@
+.head{
+    font-size: xx-large;
+    margin-top: 2.5rem;
+    font-weight: 600;
+    font-family: 'Noto Sans', sans-serif;
+}
+.underline{
+    height: 5px;
+    width:350px;
+    background-color: darkblue;
+    border-radius: 10px;
+    border:2px solid rgb(45, 29, 0);
+  
+}
